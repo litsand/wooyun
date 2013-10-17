@@ -1,0 +1,630 @@
+
+; <<>> DiG 9.8.1-P1 <<>> @ns1.qq.com. tencent.com axfr
+; (2 servers found)
+;; global options: +cmd
+; Transfer failed.
+
+; <<>> DiG 9.8.1-P1 <<>> @dns.baidu.com. baidu.com axfr
+; (1 server found)
+;; global options: +cmd
+; Transfer failed.
+
+; <<>> DiG 9.8.1-P1 <<>> @ns1.sina.com.cn. sina.com.cn axfr
+; (1 server found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.8.1-P1 <<>> @ns1.sohu.com. sohu.com axfr
+; (1 server found)
+;; global options: +cmd
+; Transfer failed.
+
+; <<>> DiG 9.8.1-P1 <<>> @ns1.qq.com. discuz.net axfr
+; (2 servers found)
+;; global options: +cmd
+; Transfer failed.
+
+; <<>> DiG 9.8.1-P1 <<>> @ns1.rising.com.cn. rising.com.cn axfr
+; (1 server found)
+;; global options: +cmd
+; Transfer failed.
+
+; <<>> DiG 9.8.1-P1 <<>> @nsp.alibabaonline.com. alibaba.com axfr
+; (1 server found)
+;; global options: +cmd
+; Transfer failed.
+
+; <<>> DiG 9.8.1-P1 <<>> @ns5.360safe.com. 360.cn axfr
+; (1 server found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.8.1-P1 <<>> @ns1.aoyou365.com. maxthon.cn axfr
+; (1 server found)
+;; global options: +cmd
+; Transfer failed.
+
+; <<>> DiG 9.8.1-P1 <<>> @ns1.5q.com. renren.com axfr
+; (1 server found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.8.1-P1 <<>> @lns1.zdnscloud.info. ifeng.com axfr
+; (4 servers found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.8.1-P1 <<>> @snda.com. snda.com axfr
+; (1 server found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.8.1-P1 <<>> @sdo.com. sdo.com axfr
+; (2 servers found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.8.1-P1 <<>> @ns1.sogou.com. sogou.com axfr
+; (1 server found)
+;; global options: +cmd
+sogou.com.		600	IN	SOA	ns1.sogou.com. dnsadmin.sogou-inc.com. 1381995006 300 180 1209600 180
+; Transfer failed.
+
+; <<>> DiG 9.8.1-P1 <<>> @ns4.nease.net. 163.com axfr
+; (1 server found)
+;; global options: +cmd
+; Transfer failed.
+
+; <<>> DiG 9.8.1-P1 <<>> @ns1.9you.com. 9you.com axfr
+; (1 server found)
+;; global options: +cmd
+; Transfer failed.
+
+; <<>> DiG 9.8.1-P1 <<>> @ns.kingsoft.com. duba.net axfr
+; (3 servers found)
+;; global options: +cmd
+; Transfer failed.
+
+; <<>> DiG 9.8.1-P1 <<>> @ns1.ctrip.com. ctrip.com axfr
+; (1 server found)
+;; global options: +cmd
+; Transfer failed.
+
+; <<>> DiG 9.8.1-P1 <<>> @ns11.19lou.com. 19lou.com axfr
+; (1 server found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.8.1-P1 <<>> @ns3.tomasen.org. shooter.cn axfr
+; (1 server found)
+;; global options: +cmd
+shooter.cn.		800	IN	SOA	ns3.tomasen.org. root.shooter.cn. 358 800 300 432000 800
+shooter.cn.		800	IN	A	222.73.165.25
+shooter.cn.		800	IN	AAAA	2607:f740:90::ea8
+shooter.cn.		800	IN	NS	ns1.tomasen.org.
+shooter.cn.		800	IN	NS	ns2.tomasen.org.
+shooter.cn.		800	IN	NS	ns3.tomasen.org.
+shooter.cn.		800	IN	MX	5 mxbiz1.qq.com.
+shooter.cn.		800	IN	MX	10 mxbiz2.qq.com.
+shooter.cn.		800	IN	TXT	"v=spf1 include:spf.mail.qq.com ~all"
+*.shooter.cn.		800	IN	CNAME	shooter.cn.
+2010.shooter.cn.	800	IN	A	192.168.0.9
+3g.shooter.cn.		800	IN	A	210.14.78.139
+auth.shooter.cn.	800	IN	A	61.155.107.33
+bbs.shooter.cn.		800	IN	A	106.187.36.180
+cdn.shooter.cn.		800	IN	A	60.191.132.122
+cds.shooter.cn.		800	IN	A	211.100.30.86
+central.shooter.cn.	800	IN	A	222.73.165.25
+*.central.shooter.cn.	800	IN	A	222.73.165.25
+cnc.shooter.cn.		800	IN	A	210.51.50.71
+cnc2.shooter.cn.	800	IN	A	222.73.165.25
+cnc3.shooter.cn.	800	IN	A	222.73.165.25
+cncback.shooter.cn.	800	IN	A	221.6.206.82
+cncfile0.shooter.cn.	800	IN	A	60.191.132.122
+cncfile1.shooter.cn.	800	IN	A	60.191.132.122
+cncfile2.shooter.cn.	800	IN	A	60.191.132.122
+cncimg0.shooter.cn.	800	IN	A	60.191.132.122
+cncounter.shooter.cn.	800	IN	A	210.51.50.71
+counter.shooter.cn.	800	IN	A	202.107.196.24
+ct.shooter.cn.		800	IN	A	60.191.132.122
+ctimg0.shooter.cn.	800	IN	A	60.191.132.122
+docs.shooter.cn.	800	IN	CNAME	domains.tumblr.com.
+edu.shooter.cn.		800	IN	A	60.191.132.122
+edufile0.shooter.cn.	800	IN	A	60.191.132.122
+edufile1.shooter.cn.	800	IN	A	60.191.132.122
+eduimg0.shooter.cn.	800	IN	A	60.191.132.122
+engine.shooter.cn.	800	IN	A	222.73.165.25
+file.shooter.cn.	800	IN	A	60.191.132.122
+file0.shooter.cn.	800	IN	A	222.73.165.25
+file1.shooter.cn.	800	IN	A	60.191.132.122
+file2.shooter.cn.	800	IN	A	210.14.78.139
+flash.shooter.cn.	800	IN	A	210.51.50.71
+game.shooter.cn.	800	IN	A	210.14.78.137
+*.game.shooter.cn.	800	IN	A	115.182.50.159
+cs.game.shooter.cn.	800	IN	A	61.160.192.131
+hk.shooter.cn.		800	IN	A	113.196.160.80
+html.shooter.cn.	800	IN	CNAME	www.shooter.cn.
+img.shooter.cn.		800	IN	A	60.191.132.122
+img0.shooter.cn.	800	IN	A	222.73.165.25
+ipv6.shooter.cn.	800	IN	AAAA	2607:f740:90::ea8
+jp.shooter.cn.		800	IN	A	106.187.36.180
+m.shooter.cn.		800	IN	A	60.191.132.122
+mail.shooter.cn.	800	IN	CNAME	exmail.qq.com.
+mo.shooter.cn.		800	IN	A	221.130.182.25
+phash.shooter.cn.	800	IN	A	222.73.165.25
+phashserv.shooter.cn.	800	IN	A	210.14.78.137
+search.shooter.cn.	800	IN	A	61.155.107.33
+shop.shooter.cn.	800	IN	CNAME	www.shooter.cn.
+splayer.shooter.cn.	800	IN	A	60.191.132.122
+splayer1.shooter.cn.	800	IN	A	60.191.132.122
+splayer10.shooter.cn.	800	IN	A	222.73.165.25
+splayer11.shooter.cn.	800	IN	A	60.191.132.122
+splayer2.shooter.cn.	800	IN	A	60.191.132.122
+splayer3.shooter.cn.	800	IN	A	60.191.132.122
+splayer4.shooter.cn.	800	IN	A	60.191.132.122
+splayer5.shooter.cn.	800	IN	A	210.14.78.139
+splayer6.shooter.cn.	800	IN	A	218.249.29.199
+splayer7.shooter.cn.	800	IN	A	218.249.29.199
+splayer8.shooter.cn.	800	IN	A	60.191.132.122
+splayer9.shooter.cn.	800	IN	A	222.73.165.25
+static.shooter.cn.	800	IN	A	58.215.55.141
+stunnel.shooter.cn.	800	IN	A	221.130.184.210
+svplayer.shooter.cn.	800	IN	A	60.191.132.122
+t.shooter.cn.		800	IN	A	60.191.132.122
+tomas.shooter.cn.	800	IN	A	192.168.0.9
+tphz.shooter.cn.	800	IN	A	60.191.132.122
+tw.shooter.cn.		800	IN	A	113.196.160.80
+twitter.shooter.cn.	800	IN	A	173.230.153.246
+updater.shooter.cn.	800	IN	A	60.191.132.122
+us.shooter.cn.		800	IN	A	106.187.36.180
+us2.shooter.cn.		800	IN	A	72.14.188.94
+usads.shooter.cn.	800	IN	A	106.187.36.180
+usfile0.shooter.cn.	800	IN	A	60.191.132.122
+usfile1.shooter.cn.	800	IN	A	60.191.132.122
+usimg0.shooter.cn.	800	IN	A	106.187.36.180
+vpn.shooter.cn.		800	IN	CNAME	vpn.seso.me.
+www.shooter.cn.		800	IN	A	222.73.165.25
+www.shooter.cn.		800	IN	AAAA	2607:f740:90::ea8
+shooter.cn.		800	IN	SOA	ns3.tomasen.org. root.shooter.cn. 358 800 300 432000 800
+;; Query time: 102 msec
+;; SERVER: 106.187.36.180#53(106.187.36.180)
+;; WHEN: Thu Oct 17 16:36:29 2013
+;; XFR size: 88 records (messages 1, bytes 2082)
+
+;; communications error to 112.90.143.36#53: end of file
+;; communications error to 112.90.143.36#53: end of file
+;; communications error to 112.90.143.36#53: end of file
+
+; <<>> DiG 9.8.1-P1 <<>> @ns1.dnsv5.com. verycd.com axfr
+; (6 servers found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.8.1-P1 <<>> @ns1.mop.com. mop.com axfr
+; (1 server found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.8.1-P1 <<>> @ns.ourgame.com.cn. ourgame.com axfr
+; (1 server found)
+;; global options: +cmd
+; Transfer failed.
+
+; <<>> DiG 9.8.1-P1 <<>> @ns1.douban.com. douban.com axfr
+; (1 server found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.8.1-P1 <<>> @ns1.youku.com. youku.com axfr
+; (1 server found)
+;; global options: +cmd
+; Transfer failed.
+
+; <<>> DiG 9.8.1-P1 <<>> @ns1.wanmeilink.com. wanmei.com axfr
+; (1 server found)
+;; global options: +cmd
+; Transfer failed.
+
+; <<>> DiG 9.8.1-P1 <<>> @ns3.39.net. 39.net axfr
+; (1 server found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.8.1-P1 <<>> @ns5.uc.cn. uc.cn axfr
+; (1 server found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.8.1-P1 <<>> @ns2.webscache.net. pps.tv axfr
+; (1 server found)
+;; global options: +cmd
+; Transfer failed.
+
+; <<>> DiG 9.8.1-P1 <<>> @ns1.taobao.com. taobao.com axfr
+; (1 server found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.8.1-P1 <<>> @ns2.dns.com.cn. blogbus.com axfr
+; (5 servers found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.8.1-P1 <<>> @nsops1.139js.com. shequ.10086.cn axfr
+; (1 server found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.8.1-P1 <<>> @shopex.cn. shopex.cn axfr
+; (1 server found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.8.1-P1 <<>> @dns.alipay.com. alipay.com axfr
+; (1 server found)
+;; global options: +cmd
+; Transfer failed.
+
+; <<>> DiG 9.8.1-P1 <<>> @kaixin001.com. kaixin001.com axfr
+; (1 server found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.8.1-P1 <<>> @hidden-master.aliyun.com. phpwind.net axfr
+; (1 server found)
+;; global options: +cmd
+; Transfer failed.
+;; communications error to 183.60.59.217#53: end of file
+;; communications error to 183.60.59.217#53: end of file
+;; communications error to 183.60.59.217#53: end of file
+
+; <<>> DiG 9.8.1-P1 <<>> @ns1.dnsv5.com. ftchinese.com axfr
+; (6 servers found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.8.1-P1 <<>> @a.dns.cn. net.cn axfr
+; (1 server found)
+;; global options: +cmd
+; Transfer failed.
+
+; <<>> DiG 9.8.1-P1 <<>> @ns1.sohu.com. 17173.com axfr
+; (1 server found)
+;; global options: +cmd
+; Transfer failed.
+
+; <<>> DiG 9.8.1-P1 <<>> @ns1.iqiyi.com. qiyi.com axfr
+; (1 server found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.8.1-P1 <<>> @ns2.sohu.com. focus.cn axfr
+; (1 server found)
+;; global options: +cmd
+; Transfer failed.
+
+; <<>> DiG 9.8.1-P1 <<>> @ns1.sohu.com. chinaren.com axfr
+; (1 server found)
+;; global options: +cmd
+; Transfer failed.
+
+; <<>> DiG 9.8.1-P1 <<>> @ns1.tudoudns.com. tudou.com axfr
+; (1 server found)
+;; global options: +cmd
+; Transfer failed.
+
+; <<>> DiG 9.8.1-P1 <<>> @ns1.ztgame.com. ztgame.com axfr
+; (1 server found)
+;; global options: +cmd
+; Transfer failed.
+
+; <<>> DiG 9.8.1-P1 <<>> @ns.mtime.com. mtime.com axfr
+; (1 server found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.8.1-P1 <<>> @dns1.hichina.com. tompda.com axfr
+; (6 servers found)
+;; global options: +cmd
+; Transfer failed.
+
+; <<>> DiG 9.8.1-P1 <<>> @ns6.whocool.com. 51.com axfr
+; (1 server found)
+;; global options: +cmd
+; Transfer failed.
+
+; <<>> DiG 9.8.1-P1 <<>> @shandagames.com. shandagames.com axfr
+; (1 server found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+;; communications error to 183.60.59.217#53: end of file
+;; communications error to 183.60.59.217#53: end of file
+;; communications error to 183.60.59.217#53: end of file
+
+; <<>> DiG 9.8.1-P1 <<>> @ns1.dnsv5.com. 4399.com axfr
+; (6 servers found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.8.1-P1 <<>> @ns1.jiepang.com. jiepang.com axfr
+; (1 server found)
+;; global options: +cmd
+; Transfer failed.
+;; communications error to 112.90.143.36#53: end of file
+;; communications error to 112.90.143.36#53: end of file
+;; communications error to 112.90.143.36#53: end of file
+
+; <<>> DiG 9.8.1-P1 <<>> @ns1.dnsv5.com. it168.com axfr
+; (6 servers found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.8.1-P1 <<>> @nsall.huawei.com. huawei.com axfr
+; (1 server found)
+;; global options: +cmd
+; Transfer failed.
+
+; <<>> DiG 9.8.1-P1 <<>> @ns4.ku6.net. ku6.com axfr
+; (1 server found)
+;; global options: +cmd
+; Transfer failed.
+;; communications error to 183.60.59.231#53: end of file
+;; communications error to 183.60.59.231#53: end of file
+;; communications error to 183.60.59.231#53: end of file
+
+; <<>> DiG 9.8.1-P1 <<>> @ns1.dnsv3.com. dxy.cn axfr
+; (3 servers found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+;; communications error to 183.60.59.231#53: end of file
+;; communications error to 183.60.59.231#53: end of file
+;; communications error to 183.60.59.231#53: end of file
+
+; <<>> DiG 9.8.1-P1 <<>> @ns1.dnsv3.com. xiami.com axfr
+; (3 servers found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+;; communications error to 112.90.143.36#53: end of file
+;; communications error to 112.90.143.36#53: end of file
+;; communications error to 112.90.143.36#53: end of file
+
+; <<>> DiG 9.8.1-P1 <<>> @ns1.dnsv5.com. xywy.com axfr
+; (6 servers found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.8.1-P1 <<>> @ns1.qunar.com. qunar.com axfr
+; (1 server found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.8.1-P1 <<>> @ns1.7daysinn.cn. 7daysinn.cn axfr
+; (1 server found)
+;; global options: +cmd
+; Transfer failed.
+
+; <<>> DiG 9.8.1-P1 <<>> @phpcms.cn. phpcms.cn axfr
+; (1 server found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+;; communications error to 112.90.143.36#53: end of file
+;; communications error to 112.90.143.36#53: end of file
+;; communications error to 112.90.143.36#53: end of file
+
+; <<>> DiG 9.8.1-P1 <<>> @ns1.dnsv5.com. 58.com axfr
+; (6 servers found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+;; communications error to 183.60.59.217#53: end of file
+;; communications error to 183.60.59.217#53: end of file
+;; communications error to 183.60.59.217#53: end of file
+
+; <<>> DiG 9.8.1-P1 <<>> @ns1.dnsv5.com. ganji.com axfr
+; (6 servers found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+;; communications error to 183.60.59.232#53: end of file
+;; communications error to 183.60.59.232#53: end of file
+;; communications error to 183.60.59.232#53: end of file
+
+; <<>> DiG 9.8.1-P1 <<>> @ns1.dnsv4.com. chinaunix.net axfr
+; (4 servers found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.8.1-P1 <<>> @songtaste.com. songtaste.com axfr
+; (1 server found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+;; communications error to 183.60.59.217#53: end of file
+;; communications error to 183.60.59.217#53: end of file
+;; communications error to 183.60.59.217#53: end of file
+
+; <<>> DiG 9.8.1-P1 <<>> @ns1.dnsv5.com. gaopeng.com axfr
+; (6 servers found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.8.1-P1 <<>> @ns1.duowanns.com. duowan.com axfr
+; (5 servers found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+;; communications error to 183.60.59.217#53: end of file
+;; communications error to 183.60.59.217#53: end of file
+;; communications error to 183.60.59.217#53: end of file
+
+; <<>> DiG 9.8.1-P1 <<>> @ns1.dnsv5.com. dnspod.cn axfr
+; (6 servers found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+;; communications error to 122.225.217.193#53: end of file
+;; communications error to 122.225.217.193#53: end of file
+;; communications error to 122.225.217.193#53: end of file
+
+; <<>> DiG 9.8.1-P1 <<>> @ns1.dnsv2.com. tuchong.com axfr
+; (3 servers found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+;; communications error to 112.90.143.36#53: end of file
+;; communications error to 112.90.143.36#53: end of file
+;; communications error to 112.90.143.36#53: end of file
+
+; <<>> DiG 9.8.1-P1 <<>> @ns1.dnsv5.com. yeepay.com axfr
+; (6 servers found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.8.1-P1 <<>> @dns1.the9.com. the9.com axfr
+; (1 server found)
+;; global options: +cmd
+; Transfer failed.
+;; communications error to 119.167.195.12#53: end of file
+;; communications error to 119.167.195.12#53: end of file
+;; communications error to 119.167.195.12#53: end of file
+
+; <<>> DiG 9.8.1-P1 <<>> @f1g1ns1.dnspod.net. ylmf.com axfr
+; (4 servers found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.8.1-P1 <<>> @hidden-master.aliyun.com. cnzz.com axfr
+; (1 server found)
+;; global options: +cmd
+; Transfer failed.
+
+; <<>> DiG 9.8.1-P1 <<>> @ns.ourgame.com.cn. lianzhong.com axfr
+; (1 server found)
+;; global options: +cmd
+; Transfer failed.
+
+; <<>> DiG 9.8.1-P1 <<>> @dns25.hichina.com. pindao.com axfr
+; (6 servers found)
+;; global options: +cmd
+; Transfer failed.
+
+; <<>> DiG 9.8.1-P1 <<>> @ns.jdemall.com. 360buy.com axfr
+; (1 server found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.8.1-P1 <<>> @ns1.dzwww.net. dzwww.com axfr
+; (1 server found)
+;; global options: +cmd
+; Transfer failed.
+;; communications error to 112.90.143.36#53: end of file
+;; communications error to 112.90.143.36#53: end of file
+;; communications error to 112.90.143.36#53: end of file
+
+; <<>> DiG 9.8.1-P1 <<>> @ns1.dnsv5.com. 91wan.com axfr
+; (6 servers found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+;; communications error to 119.167.195.12#53: end of file
+;; communications error to 119.167.195.12#53: end of file
+;; communications error to 119.167.195.12#53: end of file
+
+; <<>> DiG 9.8.1-P1 <<>> @f1g1ns1.dnspod.net. guokr.com axfr
+; (4 servers found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.8.1-P1 <<>> @ns1.newegg.com.cn. newegg.com.cn axfr
+; (1 server found)
+;; global options: +cmd
+; Transfer failed.
+
+; <<>> DiG 9.8.1-P1 <<>> @12ha.com. 12ha.com axfr
+; (1 server found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.8.1-P1 <<>> @ns5.lashou.com. lashou.com axfr
+; (1 server found)
+;; global options: +cmd
+; Transfer failed.
+;; communications error to 119.167.195.9#53: end of file
+;; communications error to 119.167.195.9#53: end of file
+;; communications error to 119.167.195.9#53: end of file
+
+; <<>> DiG 9.8.1-P1 <<>> @ns1.dnsv5.com. 55tuan.com axfr
+; (6 servers found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+;; communications error to 183.60.59.232#53: end of file
+;; communications error to 183.60.59.232#53: end of file
+;; communications error to 183.60.59.232#53: end of file
+
+; <<>> DiG 9.8.1-P1 <<>> @ns1.dnsv4.com. zhihu.com axfr
+; (4 servers found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+;; communications error to 122.225.217.193#53: end of file
+;; communications error to 122.225.217.193#53: end of file
+;; communications error to 122.225.217.193#53: end of file
+
+; <<>> DiG 9.8.1-P1 <<>> @ns1.dnsv2.com. cnbeta.com axfr
+; (3 servers found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.8.1-P1 <<>> @dns1.pptv.com. pptv.com axfr
+; (1 server found)
+;; global options: +cmd
+; Transfer failed.
+;; communications error to 119.167.195.9#53: end of file
+;; communications error to 119.167.195.9#53: end of file
+;; communications error to 119.167.195.9#53: end of file
+
+; <<>> DiG 9.8.1-P1 <<>> @ns1.dnsv5.com. 9158.com axfr
+; (6 servers found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+;; communications error to 122.225.217.193#53: end of file
+;; communications error to 122.225.217.193#53: end of file
+;; communications error to 122.225.217.193#53: end of file
+
+; <<>> DiG 9.8.1-P1 <<>> @ns1.dnsv2.com. manzuo.com axfr
+; (3 servers found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.8.1-P1 <<>> @dns9.hichina.com. ubox.cn axfr
+; (6 servers found)
+;; global options: +cmd
+; Transfer failed.
+;; communications error to 122.225.217.193#53: end of file
+;; communications error to 122.225.217.193#53: end of file
+;; communications error to 122.225.217.193#53: end of file
+
+; <<>> DiG 9.8.1-P1 <<>> @ns1.dnsv2.com. sangfor.com.cn axfr
+; (3 servers found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.8.1-P1 <<>> @ns1.vancl.net. vancl.com axfr
+; (1 server found)
+;; global options: +cmd
+; Transfer failed.
+
+; <<>> DiG 9.8.1-P1 <<>> @ns1.360wzb.com. unnoo.com axfr
+; (2 servers found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+;; communications error to 119.167.195.12#53: end of file
+;; communications error to 119.167.195.12#53: end of file
+;; communications error to 119.167.195.12#53: end of file
+
+; <<>> DiG 9.8.1-P1 <<>> @f1g1ns1.dnspod.net. sucop.com axfr
+; (4 servers found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.8.1-P1 <<>> @ns3.6.cn. 6.cn axfr
+; (1 server found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.8.1-P1 <<>> @ns1000.114dns.com. elong.com axfr
+; (2 servers found)
+;; global options: +cmd
+;; connection timed out; no servers could be reached
